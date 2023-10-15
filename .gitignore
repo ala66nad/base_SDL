@@ -1,0 +1,5 @@
+sdl
+src/*.o
+
+# Editor directories and files
+.vscode/*
